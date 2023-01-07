@@ -1,0 +1,1 @@
+console.log("Sana da merhaba Ahmet")
